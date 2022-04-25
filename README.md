@@ -14,3 +14,5 @@ If you wish to utilize this app without cloning the repo, click [here](https://m
 
 
 ## Demonstration video
+
+[Here](https://www.awesomescreenshot.com/video/8569007?key=cfa83462aa51a35ea07447da547cecce) is a demonstration video for the installation and usage instructions.
